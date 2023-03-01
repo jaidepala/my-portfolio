@@ -1,7 +1,7 @@
 {
     "name": "frontend_react",
     "version": "0.1.0",
-    "private": true,
+    "private": false,
     "dependencies": {
         "@sanity/client": "^5.2.2",
         "@sanity/image-url": "^1.0.2",
